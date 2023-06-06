@@ -1,1 +1,1 @@
-# futscore06-06
+# futscore
